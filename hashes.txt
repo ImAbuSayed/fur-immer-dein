@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Für immer dein
+
+This log tracks the cryptographic history and versioning for the song **Für immer dein** (fur-immer-dein).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:03:27.801764 | `v1` | `e97d3c76ffb3726bd1cdeb04448474332200c09aee33a72afb43d8764c1e1c64` | `7dfa4a3bb3da2bb1c9d95842f8293acf8ce83f51b0a73ebc7d0e7cefe5d2de06` | `2026-06-28_fur-immer-dein-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

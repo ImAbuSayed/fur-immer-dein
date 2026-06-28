@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fur-immer-dein/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Für immer dein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-immer-dein/) |
+| **Get License** | [Obtain a Music License for Für immer dein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-immer-dein/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e97d3c76ffb3726bd1cdeb04448474332200c09aee33a72afb43d8764c1e1c64` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
