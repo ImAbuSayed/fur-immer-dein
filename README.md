@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fur-immer-dein/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Für immer dein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-immer-dein/) |
+| **Get License** | [Get License For Für immer dein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-immer-dein/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Stadt schläft nicht, doch ich seh' nur dich im Neonlicht
+> Komm steig ein, der Motor läuft, Baby, wehr dich nicht
+> Dein Blick trifft mich hart, wie ein Bass, der niemals bricht
+> Die Nacht gehört uns zwei, für immer dein, verlier mich nicht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
